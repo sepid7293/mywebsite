@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>سایت من</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #007BFF;
+    }
+    p {
+      color: #333;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎉 به سایت من خوش آمدید</h1>
+  <p>این یک نمونه سایت ساده است که با GitHub Pages ساخته شده.</p>
+</body>
+</html>
